@@ -1,0 +1,8 @@
+{
+    "appUrl": "http://localhost:4200",
+    "ssoUrl": "http://localhost:5002",
+    "apiUrl": "http://localhost:23772",
+    "gatewayUrl": "http://localhost:7200",
+    "clientId": "29162bee-97b8-4d12-b727-0489f9920c04",
+    "audience": "86079f85-06d9-422c-9fd5-eef3a9ecf2df"
+}
